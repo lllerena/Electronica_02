@@ -1,6 +1,9 @@
 ﻿Este sera un ejemplo desde Word hacia Markdown
 
-![](Aspose.Words.2d0c4bcc-9b39-4c10-99dc-c6ac935cc8a6.001.png)
+
+![image](https://user-images.githubusercontent.com/6232073/114642897-474c2000-9c9a-11eb-9869-846e57d5b992.png)
+
+
 
 **RESALTADO**
 
